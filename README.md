@@ -2,6 +2,7 @@
 
 In this project , I create a fake news detection system using python
 
+
 ### Project Steps
 - Importing Libaries
 - Importing the dataset
@@ -16,14 +17,22 @@ In this project , I create a fake news detection system using python
 - Check the second model accuracy
 - Check the Fake News
 
+
+
 ## Code
 You can find the code for this project here.
+
 
 File overview:
 - `Fake News Detection System.ipynb` - a jupyter notebook that contains all of the code.
 
 ## Data
 - Find the dataset [here](https://drive.google.com/drive/folders/1Vjkux9VfBIhTotHyArghc3wxS7gIMKR2?usp=sharing)
+
+
+## Demo
+- Watch the demo [here](https://youtu.be/mE-PvNWgSzQ)
+
 
   
 # Local Setup
